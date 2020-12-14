@@ -1,0 +1,6 @@
+.circle {
+    background-color: gray;
+    height: 140px;
+    width: 140px;
+    border-radius: 100%;
+  }
